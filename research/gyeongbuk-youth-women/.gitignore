@@ -1,0 +1,3 @@
+scripts/kosis_config.json
+data/*.csv
+scripts/__pycache__/
